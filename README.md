@@ -1,8 +1,11 @@
 ### Hi there 👋
+I am a people manager and security professional (advocate, architect, engineer) who finds joy in building safe & useful things.
 
-I am an information technology architecture and security professional with experience managing and mentoring teams.  I maintain an emphasis on risk informed decision making, tactical optimism, perseverance, and fostering healthy cultures of collaboration. I have worked for companies behind globally ranked top 10 and 150 websites for a decade in these capacities, as well as enterprises in highly regulated industries for an additional decade :D.  I am a lifelong builder and continuous learner who can often be found in the workshop.
+An emphasis on business enablement, risk informed decision making, automation, tactical optimism, and fostering healthy cultures of collaboration has helped me to build and grow successful initiatives across industries.
 
-I also enjoy pistachios.
+I have worked for companies behind globally ranked top 10 and 150 websites for a decade in these capacities. I have worked in highly regulated environments for a decade more (HIPAA, PCI DSS, FISMA, ISO 27001, FedRAMP). 
+
+I am a lifelong builder and continuous learner who can often be found in the workshop. I live in the midwestern portion of the U.S. with my wife and two daughters.
 
 <!--
 **chasemp/chasemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
