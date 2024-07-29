@@ -13,7 +13,9 @@ I have contributed odds and ends to several open-source projects over the years:
 
 I have made significant contributions to numerous open-source projects in service of the [Wikimedia Foundation](https://wikimediafoundation.org/) and the free-knowledge movement across [security](https://github.com/wikimedia/operations-puppet/commit/057dc2fa3aa24eba80d4e1f8e263b17743625543), [infrastructure](https://github.com/wikimedia/operations-puppet/commits?author=chasemp&after=96514b822dc01686d6ca7367fe24a779b3f10167+34), and [reporting](https://github.com/chasemp/wikimedia-security-tooling-peek).  
 
-The Wikimedia Foundation does not use Github as their authoritative respository source.  As of 2024, they use [Gerrit](https://gerrit.wikimedia.org/r/q/status:open+-is:wip) and Phabricator's [Diffusion](https://phabricator.wikimedia.org/diffusion/commit/query/FZiBzYjORg1k/#R).
+The Wikimedia Foundation does not use Github as their authoritative respository source.  
+
+As of 2024, they use [Gerrit](https://gerrit.wikimedia.org/r/q/status:open+-is:wip) and Phabricator's [Diffusion](https://phabricator.wikimedia.org/diffusion/commit/query/FZiBzYjORg1k/#R).
 
 
 I have been affiliated with:
