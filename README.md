@@ -22,7 +22,7 @@ I have been affiliated with:
 - The [CNCF](https://github.com/cncf/toc/commits?author=chasemp) [Technical Advisory Group](https://github.com/cncf/tag-security/commits?author=chasemp)
   - - Including Co-Author for the [CNCF Security Whitepaper 1.0](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v1) and collaborator for the [audiobook version](https://www.cncf.io/blog/2022/08/12/cloud-native-security-whitepaper-version-1-0-audiobook-release/)
 - The [DevOpsDays](https://github.com/devopsdays/devopsdays-web/commits?author=chasemp) movement in [DevOpsDays Kansas City](https://devopsdays.org/events/2016-kansascity/welcome/).
-
+- OWASP as a member
 
 
 
